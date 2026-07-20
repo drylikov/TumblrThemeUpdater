@@ -1,4 +1,3 @@
 
-
 Usage:
 python update.py -e [email] -p [password] -b [blogname] -f [path to theme file] 
